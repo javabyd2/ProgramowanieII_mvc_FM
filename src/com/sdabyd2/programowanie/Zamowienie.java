@@ -21,7 +21,6 @@ public class Zamowienie {
         pozycje[pozycje.length] = pozycja;
 
 
-
     }
 
     public double obliczWartoscZamowienia(Pozycja pozycja) {
@@ -35,4 +34,12 @@ public class Zamowienie {
 
         return wartoscZamowienia;
     }
+
+    public  String toString (Pozycja [] pozycje){
+
+
+
+
+    }
+
 }
