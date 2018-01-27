@@ -18,7 +18,7 @@ public class Zamowienie {
 
     public void dodajPozycje(Pozycja pozycja) {
 
-        pozycje[]=
+        pozycje[pozycje.length] = pozycja;
 
 
 
