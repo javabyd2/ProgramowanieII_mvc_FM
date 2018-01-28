@@ -35,11 +35,9 @@ public class Zamowienie {
         return wartoscZamowienia;
     }
 
-    public  String toString (Pozycja [] pozycje){
-
-
-
-
-    }
+//    public  String toString (Pozycja [] pozycje){
+//
+//
+//    }
 
 }
